@@ -39,18 +39,18 @@ This tool automates profile visits and follows on LinkedIn using Selenium and Py
    cd linkedin-automation
 Install Dependencies
 
-bash
-Copy code
+```bash
 pip install -r requirements.txt
+```
 Setup Cookies
 
 Run cookies.py and log in to LinkedIn manually.
 Press Enter to save cookies as cookies.pkl.
 Run Automation
 
-bash
-Copy code
+```bash
 python main.py
+```
 Requirements
 Ensure you have the following dependencies installed:
 
